@@ -1,0 +1,15 @@
+D:\учёба\Разработчик\Знакомство с языками программирования (лекции)\Урок_первый\hello_console\bin\Debug\net6.0\hello_console.exe
+D:\учёба\Разработчик\Знакомство с языками программирования (лекции)\Урок_первый\hello_console\bin\Debug\net6.0\hello_console.deps.json
+D:\учёба\Разработчик\Знакомство с языками программирования (лекции)\Урок_первый\hello_console\bin\Debug\net6.0\hello_console.runtimeconfig.json
+D:\учёба\Разработчик\Знакомство с языками программирования (лекции)\Урок_первый\hello_console\bin\Debug\net6.0\hello_console.dll
+D:\учёба\Разработчик\Знакомство с языками программирования (лекции)\Урок_первый\hello_console\bin\Debug\net6.0\ref\hello_console.dll
+D:\учёба\Разработчик\Знакомство с языками программирования (лекции)\Урок_первый\hello_console\bin\Debug\net6.0\hello_console.pdb
+D:\учёба\Разработчик\Знакомство с языками программирования (лекции)\Урок_первый\hello_console\obj\Debug\net6.0\hello_console.csproj.AssemblyReference.cache
+D:\учёба\Разработчик\Знакомство с языками программирования (лекции)\Урок_первый\hello_console\obj\Debug\net6.0\hello_console.GeneratedMSBuildEditorConfig.editorconfig
+D:\учёба\Разработчик\Знакомство с языками программирования (лекции)\Урок_первый\hello_console\obj\Debug\net6.0\hello_console.AssemblyInfoInputs.cache
+D:\учёба\Разработчик\Знакомство с языками программирования (лекции)\Урок_первый\hello_console\obj\Debug\net6.0\hello_console.AssemblyInfo.cs
+D:\учёба\Разработчик\Знакомство с языками программирования (лекции)\Урок_первый\hello_console\obj\Debug\net6.0\hello_console.csproj.CoreCompileInputs.cache
+D:\учёба\Разработчик\Знакомство с языками программирования (лекции)\Урок_первый\hello_console\obj\Debug\net6.0\hello_console.dll
+D:\учёба\Разработчик\Знакомство с языками программирования (лекции)\Урок_первый\hello_console\obj\Debug\net6.0\ref\hello_console.dll
+D:\учёба\Разработчик\Знакомство с языками программирования (лекции)\Урок_первый\hello_console\obj\Debug\net6.0\hello_console.pdb
+D:\учёба\Разработчик\Знакомство с языками программирования (лекции)\Урок_первый\hello_console\obj\Debug\net6.0\hello_console.genruntimeconfig.cache
